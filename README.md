@@ -1,21 +1,20 @@
-# برنامج توثيق الأعطال المتكررة وتحليل أسبابها
-**Recurring Failure Documentation & Root-Cause Analysis** · التصنيف: منصة تجارية
+# Recurring Failure Documentation & Root-Cause Analysis
+**Recurring Failure Documentation & Root-Cause Analysis** · Classification: Commercial platform
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
-> Project overview document — source code is not included.
+> Project overview document (specifications and technologies) — source code is not included.
 
-## نبذة عن المشروع
-برنامج لا يكتفي بتسجيل العطل بل يكشف تكراره ومصدره ونمطه، مناسب للشركات الصناعية والخدمية.
+## Project Overview
+A program that not only records failures but detects their recurrence, origin, and pattern; suitable for industrial and service companies.
 
-## أبرز النقاط
-- تسجيل الأعطال بتصنيفات وأصول ودرجة خطورة
-- تحليل التكرار وأنماط الأسباب الجذرية
-- لوحات اتجاهات ومتابعة الإجراءات الوقائية
+## Key Points
+- Logging failures with categories, origins, and severity levels
+- Analysis of recurrence and root-cause patterns
+- Trend dashboards and tracking of preventive actions
 
-## الدور
-مطوّر منصات أعمال: تحليل المتطلبات وبناء النظام ولوحة الإدارة وقاعدة البيانات والتقارير.
+## Role
+Business platforms developer: requirements analysis and building the system, admin panel, database, and reports.
 
-## التقنيات المستخدمة
+## Technologies Used
 Django, PostgreSQL, Chart.js, Celery, Redis, Docker
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

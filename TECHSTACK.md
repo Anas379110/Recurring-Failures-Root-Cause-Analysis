@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — برنامج توثيق الأعطال المتكررة وتحليل أسبابها
+# 🛠️ Technologies Used — Recurring Failure Documentation & Root-Cause Analysis
 
 - Django
 - PostgreSQL
